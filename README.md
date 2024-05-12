@@ -1,1 +1,1 @@
-It's Content Base Movie Recommending system
+It's a Content Base Movie Recommending system.
